@@ -1,9 +1,9 @@
 # Netlib – Support & Bug Reports
 
-Hier kannst du Fehler melden oder neue Funktionen vorschlagen.
+Here you can report bugs or suggest new features.
 
-👉 **Neuen Bug melden**  
+👉 **Report a new bug**  
 https://github.com/netlibrary/netlib-support/issues/new?template=bug_report.md
 
-👉 **Feature vorschlagen**  
+👉 **Suggest a feature**  
 https://github.com/netlibrary/netlib-support/issues/new?template=feature_request.md
