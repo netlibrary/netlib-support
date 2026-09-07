@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-<!-- Dieses Issue ist öffentlich. Bitte keine Passwörter, Tokens oder Screenshots mit persönlichen Daten oder privaten Links einfügen. -->
+<!-- Dieses Issue ist öffentlich. Bitte keine Passwörter, Tokens oder Screenshots mit persönlichen Daten oder privaten Links einfügen.
+     Sicherheitslücken bitte nicht hier melden, sondern über die private Meldung, siehe SECURITY.md. -->
 
 **Wo ist es passiert?**
 - [ ] Web-App (pinbase.app)

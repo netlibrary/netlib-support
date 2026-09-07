@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-<!-- This issue is public. Please don't include passwords, tokens or screenshots with personal data or private links. -->
+<!-- This issue is public. Please don't include passwords, tokens or screenshots with personal data or private links.
+     Security vulnerabilities: please don't report them here – use the private report, see SECURITY.md. -->
 
 **Where did it happen?**
 - [ ] Web app (pinbase.app)

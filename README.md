@@ -27,11 +27,15 @@ https://github.com/netlibrary/pinbase-support/issues/new?template=feature_reques
 ---
 
 **Please don't post passwords, tokens or screenshots with personal data or private links.**
-Issues here are public. For data protection requests see the
+Issues here are public. Security vulnerabilities go through the
+[private report](https://github.com/netlibrary/pinbase-support/security/advisories/new),
+see [SECURITY.md](SECURITY.md). For data protection requests see the
 [imprint](https://pinbase.app/impressum) and the
 [privacy policy](https://pinbase.app/privacy-policy).
 
 **Bitte keine Passwörter, Tokens oder Screenshots mit persönlichen Daten oder privaten Links posten.**
-Issues sind hier öffentlich. Für Datenschutzanfragen siehe
+Issues sind hier öffentlich. Sicherheitslücken bitte über die
+[private Meldung](https://github.com/netlibrary/pinbase-support/security/advisories/new),
+siehe [SECURITY.md](SECURITY.md). Für Datenschutzanfragen siehe
 [Impressum](https://pinbase.app/impressum) und
 [Datenschutzerklärung](https://pinbase.app/privacy-policy).
