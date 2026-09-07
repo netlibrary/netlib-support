@@ -1,20 +1,22 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an improvement or a new feature for Pinbase
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<!-- This issue is public. Please don't include personal data or private links. -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**What problem would this solve?**
+Describe the situation you run into, e.g. "When I ..., I always have to ..."
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Your proposal**
+What should Pinbase do instead? Where in the app would you expect it (web app, extension popup, side panel)?
+
+**Alternatives you've considered**
+Other ways you tried or thought about, if any.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Screenshots, sketches or examples from other tools are welcome.

@@ -1,38 +1,38 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Something in Pinbase does not work as expected
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- This issue is public. Please don't include passwords, tokens or screenshots with personal data or private links. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Where did it happen?**
+- [ ] Web app (pinbase.app)
+- [ ] Browser extension – popup
+- [ ] Browser extension – side panel
+- [ ] Shared page / presentation
+
+**Describe the bug**
+A clear and concise description of what went wrong.
+
+**To reproduce**
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+2. Click on '...'
+3. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+What you expected to happen instead.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots (without personal data).
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Environment**
+ - Browser and version: [e.g. Firefox 130, Chrome 128]
+ - Extension version (if relevant): [see the extension's details page]
+ - Device / OS: [e.g. Windows 11, Android 14, iPhone]
 
 **Additional context**
-Add any other context about the problem here.
+Anything else that helps, e.g. how many links or folders are involved.

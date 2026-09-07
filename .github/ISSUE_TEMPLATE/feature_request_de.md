@@ -1,20 +1,22 @@
 ---
-name: Funktionsvorschlag
-about: Schlage eine Idee für dieses Projekt vor
+name: Funktion vorschlagen
+about: Schlage eine Verbesserung oder neue Funktion für Pinbase vor
 title: ''
 labels: 'enhancement'
 assignees: ''
 
 ---
 
-**Steht dein Funktionsvorschlag im Zusammenhang mit einem Problem? Bitte beschreibe es.**
-Eine klare und präzise Beschreibung des Problems. Z.B. Ich bin immer frustriert, wenn [...]
+<!-- Dieses Issue ist öffentlich. Bitte keine persönlichen Daten oder privaten Links einfügen. -->
 
-**Beschreibe die Lösung, die du dir wünschst**
-Eine klare und präzise Beschreibung dessen, was passieren soll.
+**Welches Problem würde das lösen?**
+Beschreibe die Situation, in der du es brauchst, z.B. „Wenn ich ..., muss ich jedes Mal ..."
 
-**Beschreibe Alternativen, die du in Betracht gezogen hast**
-Eine klare und präzise Beschreibung von alternativen Lösungen oder Funktionen, die du in Betracht gezogen hast.
+**Dein Vorschlag**
+Was soll Pinbase stattdessen tun? Wo würdest du es erwarten (Web-App, Popup der Erweiterung, Seitenleiste)?
 
-**Zusätzlicher Kontext**
-Füge hier weiteren Kontext oder Screenshots zum Funktionsvorschlag hinzu.
+**Alternativen, die du überlegt hast**
+Andere Wege, die du probiert oder bedacht hast, falls vorhanden.
+
+**Weitere Hinweise**
+Screenshots, Skizzen oder Beispiele aus anderen Werkzeugen sind willkommen.
